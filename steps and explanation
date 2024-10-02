@@ -1,0 +1,13 @@
+Jak uruchomić na lokalnym serwerze: utworzyć pliki server.ts i client.ts (wrzucone), dodać plik resource.cfg do katalogu z zasobami.
+Kompilacja TypeScript: Skonfigurować kompilator TypeScript (daje przykład: tsc --watch) aby przetłumaczyć pliki .ts na .js. Nie kompilowałem ich.
+Uruchomić serwer Alt: Upewnij się, że serwer Alt jest poprawnie skonfigurowany do uruchamiania zasobów, zrestartować serwer i zasób będzie aktywny, a skrypt gotowy do działania.
+
+
+
+Testowanie:
+Włącz tryb reżysera klawiszem F6.
+Dodaj punkty kamery klawiszem H.
+Uruchom płynny ruch kamery klawiszem O.
+
+
+Skrypt będzie teraz działać na lokalnym serwerze, umożliwiając danemu użytkownikowi zapis punktów i płynne przechodzenie między nimi
